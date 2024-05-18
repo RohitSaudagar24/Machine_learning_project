@@ -1,4 +1,4 @@
-# Machine_learning_project
+# Machine_Learning_Project
 *Black Friday Sales Prediction Analysis - Regression*
 ## Project Description
 This project focuses on predicting sales for a retail store during the Black Friday event using regression analysis. By leveraging machine learning algorithms, we aim to provide insights into customer purchasing behavior and predict the purchase amount.
