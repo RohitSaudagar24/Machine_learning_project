@@ -7,6 +7,7 @@ This project focuses on predicting sales for a retail store during the Black Fri
 The dataset contains details such as customer demographics, product categories and purchase amounts.
 
 **Key Findings**
+
 In our analysis of the Black Friday sales data, we observed several interesting trends and insights:
 
 Demographic Features: Variables such as age, occupation, and gender were found to have a relatively minor impact on the purchase amount. Despite initial assumptions, these demographic factors did not significantly influence the spending behavior of customers.
